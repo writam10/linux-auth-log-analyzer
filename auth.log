@@ -1,0 +1,11 @@
+Aug 13 09:10:21 kali sshd[1201]: Failed password for admin from 192.168.1.50 port 42110 ssh2
+Aug 13 09:10:24 kali sshd[1202]: Failed password for admin from 192.168.1.50 port 42111 ssh2
+Aug 13 09:10:27 kali sshd[1203]: Failed password for admin from 192.168.1.50 port 42112 ssh2
+Aug 13 09:10:30 kali sshd[1204]: Failed password for admin from 192.168.1.50 port 42113 ssh2
+Aug 13 09:10:33 kali sshd[1205]: Failed password for admin from 192.168.1.50 port 42114 ssh2
+Aug 13 09:10:36 kali sshd[1206]: Failed password for admin from 192.168.1.50 port 42115 ssh2
+Aug 13 09:11:02 kali sshd[1207]: Accepted password for writam from 192.168.1.20 port 42120 ssh2
+Aug 13 09:15:42 kali sshd[1208]: Failed password for root from 10.0.0.25 port 43100 ssh2
+Aug 13 09:15:45 kali sshd[1209]: Failed password for root from 10.0.0.25 port 43101 ssh2
+Aug 13 09:15:48 kali sshd[1210]: Failed password for root from 10.0.0.25 port 43102 ssh2
+Aug 13 09:16:12 kali sshd[1211]: Accepted password for writam from 192.168.1.20 port 43120 ssh2
